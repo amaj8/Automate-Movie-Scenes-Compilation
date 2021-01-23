@@ -1,6 +1,8 @@
 # Automate-Movie-Scenes-Compilation
 No need to spend hours to edit and clip movies to create a compilation of scenes of your favourite character. Automate this task using Python and Face Recognition!
 
+Check out demo video https://youtu.be/0Qbu3aL50zE
+
 ## Inspiration
 I wanted to compile all the scenes of Miss Lemon in Agatha Christie's Poirot (one of my favourite TV series). I decided to automate this task instead.
 
