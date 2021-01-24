@@ -1,7 +1,7 @@
 # Automate-Movie-Scenes-Compilation
 No need to spend hours to edit and clip movies to create a compilation of scenes of your favourite character. Automate this task using Python and Face Recognition!
 
-Check out demo video https://youtu.be/0Qbu3aL50zE
+Check out demo video https://youtu.be/Wd0mPtLkVBI
 
 ![Original Video (above) vs Scene Compilation generated (below)](https://github.com/amaj8/Automate-Movie-Scenes-Compilation/blob/main/Original%20video%20(above)%20vs%20scene%20compilation%20generated%20(below).png)
 
